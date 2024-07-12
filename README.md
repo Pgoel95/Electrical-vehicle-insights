@@ -12,3 +12,7 @@ The objective of this project is to analyze and visualize electric vehicle (EV) 
 - Top 5 Vehicle Makes
 - Top 5 Vehicle Models
 - Vehicle Distribution by Model Year
+
+# Key Observations
+- The high count of electric vehicles highlights the significant adoption of electric vehicles within Washington State.This also indicates a strong market presence and a robust infrastructure supporting EV 
+  ownership.
