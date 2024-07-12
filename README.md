@@ -16,3 +16,5 @@ The objective of this project is to analyze and visualize electric vehicle (EV) 
 # Key Observations
 - The high count of electric vehicles highlights the significant adoption of electric vehicles within Washington State.This also indicates a strong market presence and a robust infrastructure supporting EV 
   ownership.
+- The average range suggests that while electric vehicles are suitable for daily commuting and short trips, they might face limitations for longer journeys, without access to charging infrastructure. This 
+  highlights the importance of expanding charging stations and infrastructure to support the growing adoption of electric vehicles.
