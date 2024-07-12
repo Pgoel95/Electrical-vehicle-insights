@@ -14,8 +14,7 @@ The objective of this project is to analyze and visualize electric vehicle (EV) 
 - Vehicle Distribution by Model Year
 
 # Key Observations
-- A growing interest and investment can be seen in sustainable transportation options among residents of Washington State. Also, state's commitment can be observed in reducing carbon emissions through 
-  increased use of electric vehicles.
-- The average range suggests that while electric vehicles are suitable for daily commuting and short trips, they might face limitations for longer journeys, without access to charging infrastructure. This 
-  highlights the importance of expanding charging stations and infrastructure to support the growing adoption of electric vehicles.
-- The average price suggests that many of the electric vehicles are likely to be from well-known manufacturers offering advanced features, higher battery capacities and better performance.
+- A growing interest and investment can be seen in sustainable transportation options among residents of Washington State. Also, state's commitment can be 
+  observed in reducing carbon emissions through increased use of electric vehicles.
+- The average price suggests that many of the electric vehicles are likely to be from well-known manufacturers offering advanced features, higher battery 
+  capacities and better performance.
