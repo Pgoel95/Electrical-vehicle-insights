@@ -21,3 +21,5 @@ The objective of this project is to analyze and visualize electric vehicle (EV) 
 - Many electric vehicles in Washington State are equipped with substantial battery capacities, making them suitable for daily commuting and medium-distance travel. Overall, reducing the need for frequent 
   recharging.
 - **TESLA** dominates the electric vehicle market in Washington state most likely due to their advanced technology, extensive range and strong performance.
+- The year **2013** has the highest count of electric vehicles, indicating a significant adoption rate during this year. This may have been driven by the introduction of popular electric vehicle models and 
+  increasing public awareness of electric vehicles.
