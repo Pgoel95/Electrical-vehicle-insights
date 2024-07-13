@@ -18,3 +18,5 @@ The objective of this project is to analyze and visualize electric vehicle (EV) 
   observed in reducing carbon emissions through increased use of electric vehicles.
 - The average price suggests that many of the electric vehicles are likely to be from well-known manufacturers offering advanced features, higher battery 
   capacities and better performance.
+- Many electric vehicles in Washington State are equipped with substantial battery capacities, making them suitable for daily commuting and medium-distance travel. Overall, reducing the need for frequent 
+  recharging.
