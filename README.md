@@ -24,11 +24,11 @@ The objective of this project is to analyze and visualize electric vehicle (EV) 
 - The year **2013** has the highest count of electric vehicles, indicating a significant adoption rate during this year. This may have been driven by the introduction of popular electric vehicle models and 
   increasing public awareness of electric vehicles.
 
-  # Slicers
-  - Slicer 1 : **Switch View Slicer** - Dynamic slicer is implemented to switch the chart view between the Top 5 EV Brands and the Top 5 EV Models 
-  - Slicer 2 : **Electric Vehicle Type Slicer** helps users distinguish between different types of electric vehicles and analyze their respective adoption rates and characteristics.
-  - Slicer 3 : **Model Year Slicer** can be used to analyze trends over time by selecting specific model years.
+# Slicers
+- Slicer 1 : **Switch View Slicer** - Dynamic slicer is implemented to switch the chart view between the Top 5 EV Brands and the Top 5 EV Models 
+- Slicer 2 : **Electric Vehicle Type Slicer** helps users distinguish between different types of electric vehicles and analyze their respective adoption rates and characteristics.
+- Slicer 3 : **Model Year Slicer** can be used to analyze trends over time by selecting specific model years.
  
-  - This view shows the dashboard with active slicers :
+- This view shows the dashboard with active slicers :
     
     
