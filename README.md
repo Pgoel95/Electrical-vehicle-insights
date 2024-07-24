@@ -28,6 +28,6 @@ The objective of this project is to analyze and visualize electric vehicle (EV) 
 - Slicer 3 : **Model Year Slicer** can be used to analyze trends over time by selecting specific model years.
  
 This view shows the dashboard with active slicers :
-![Dashboard Snip 2](https://github.com/Pgoel95/Electrical-vehicle-insights/blob/main/Dashboard%20with%20Slicers.png?raw=true)
+![Dashboard Snip 2]
     
     
